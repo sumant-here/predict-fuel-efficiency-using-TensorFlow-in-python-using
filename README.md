@@ -28,7 +28,7 @@ Let me know if you'd like a section for **how to run it**, **live demo**, or **f
 Predcting Fuel Efficiiency Using TensorFlow in Python
 This project predicts the fuel efficiency of vehicles using Artificial Neural Networks (ANN) in Python with the help of TensorFlow. It uses historical vehicle data like horsepower, weight, and model year to estimate how fuel-efficient a vehicle is (measured in MPG).
 
-### 📁 What's Inside This Repository?
+### 📁 What's Inside This Repository? 
 
 * **Dataset.txt**: This file contains the raw vehicle data used to train and test the model.
 * **Fuel Efficiency using ANN.ipynb**: A Jupyter notebook that walks through data cleaning, training the ANN model, and evaluating the results.
